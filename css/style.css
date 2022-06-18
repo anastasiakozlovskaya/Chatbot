@@ -1693,12 +1693,15 @@ body {
 }
 
 @media (max-width: 992px) {
+    
+
     .otst{
         margin-left: 0px;
     }
 
     .abz28 img {
         max-width: 200px;
+        margin-bottom: 70px;
     }
 
     .onl{
@@ -1880,6 +1883,7 @@ body {
     .abz29 h1 {
         text-align: center;
         margin-top: 50px;
+        padding-top: 50px;
     }
 
     .abz29 h4 {
@@ -1916,6 +1920,10 @@ body {
         display: flex;
         order: -1;
         margin-top: 70px;
+    }
+
+    .imgkub{
+        display: none;
     }
 
     .onl2 {
