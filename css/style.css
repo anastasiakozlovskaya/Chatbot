@@ -1693,6 +1693,10 @@ body {
 }
 
 @media (max-width: 992px) {
+    .imgg{
+        padding-top: 50px;
+    }
+    
     .onll{
         margin-bottom: 70px;
     }
